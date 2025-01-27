@@ -1,0 +1,200 @@
+.c_my-portofolio-frame {
+  width: 100%;
+  overflow: hidden;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #142329;
+}
+
+.c_my-portofolio-rectangle {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 1440px;
+}
+
+.c_my-portofolio-frame1 {
+  gap: 31px;
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 1394px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.c_my-portofolio-text {
+  width: 100%;
+  max-width: 254px;
+  margin-top: 0;
+  min-height: 41px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_my-portofolio-text01 {
+  color: #000;
+  font-size: 36px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Zen Dots",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_my-portofolio-vector {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 36px;
+}
+
+.c_my-portofolio-text02 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_my-portofolio-text03 {
+  color: #000;
+  font-size: 36px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Zen Dots",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_my-portofolio-vector1 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 36px;
+}
+
+.c_my-portofolio-text04 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_my-portofolio-text05 {
+  color: #000;
+  font-size: 36px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Zen Dots",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_my-portofolio-vector2 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 36px;
+}
+
+.c_my-portofolio-text06 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_my-portofolio-text07 {
+  color: #000;
+  font-size: 36px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Zen Dots",sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_my-portofolio-text08 {
+  width: 100%;
+  max-width: 350.7266540527344px;
+  margin-top: 0;
+  min-height: 49.633670806884766px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_my-portofolio-text09 {
+  color: #c2cb17;
+  font-size: 48px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Poppins",sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_my-portofolio-text10 {
+  width: 100%;
+  max-width: 476.2498779296875px;
+  margin-top: 0;
+  min-height: 49.633670806884766px;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_my-portofolio-text11 {
+  color: #fff;
+  font-size: 24px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Poppins",sans-serif;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 0;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+
+.c_my-portofolio-vector3 {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  display: block;
+  max-width: 292.0933532714844px;
+  max-height: 184.01904296875px;
+}
